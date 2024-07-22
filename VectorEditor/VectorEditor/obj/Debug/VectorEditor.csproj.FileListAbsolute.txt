@@ -1,0 +1,10 @@
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\bin\Debug\VectorEditor.exe.config
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\bin\Debug\VectorEditor.exe
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\bin\Debug\VectorEditor.pdb
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\obj\Debug\VectorEditor.Properties.Resources.resources
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.GenerateResource.cache
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.CoreCompileInputs.cache
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\obj\Debug\VectorEditor.exe
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\obj\Debug\VectorEditor.pdb
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\obj\Debug\VectorEditor.Form1.resources
+D:\Other\Visual Studio(repos)\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.AssemblyReference.cache

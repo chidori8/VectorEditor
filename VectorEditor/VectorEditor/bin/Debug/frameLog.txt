@@ -1,0 +1,5 @@
+Points[0] = 502	Points[1] = 313	Points[2] = 216	Points[3] = 167
+f1.Points[0] = 502	f1.Points[1] = 313	f1.Points[2] = 216	f1.Points[3] = 167
+f2.Points[0] = 743	f2.Points[1] = 281	f2.Points[2] = 624	f2.Points[3] = 188
+Points[0] = 216	Points[1] = 167	Points[2] = 743	Points[3] = 313
+
